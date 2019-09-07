@@ -6,9 +6,9 @@ The most effective treatments for lysosomal diseases, which are a group of genet
 
 PROVEAN, SIFT, I-MUTANT, PolyPhen, PHD-SNP, PANTHER, SNPs&GO are seven bioinformatics tools for phenotype prediction using machine learning technique, structural information, and evolutionary information. 
 
-## Implementation
+## Why I use Marascuilo-Procedure-test?
 
-In order to compare these algorithms to choose a algorithm or a combination of algorithms to achieve a better sensitivity as well as specificity, first we conduct a chi-square contingency table test to compare the behavior of the existing seven algorithms. Then, use the code Marascuilo-Procedure-test to see which algorithm has a significant difference with the best one. After we see which algorithms are the best serveral algorithms, we could look into these algorithms carefully and design a new score to combine these serveral algorithms
+In order to compare these algorithms to choose a algorithm or a combination of algorithms to achieve a better sensitivity as well as specificity, first we conduct a chi-square contingency table test to compare the behavior of the existing seven algorithms. Then, use the code Marascuilo-Procedure-test to see which algorithm has a significant difference with the best one. After we see which algorithms are the best serveral algorithms, we could look into these algorithms carefully and design a new score to combine these serveral algorithms.
 
 ## Results
 
